@@ -3,6 +3,5 @@ def reverse_each_word(string)
   strings.each do |reverse_string|
     reverse_string.reverse
   end
-  reverse_string
 
 end
